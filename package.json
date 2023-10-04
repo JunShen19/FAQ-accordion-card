@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://junshen19.github.io/FAQ-accordion-card/",
+  "homepage": "https://myusername.github.io/myreponame",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
